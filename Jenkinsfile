@@ -11,7 +11,7 @@ pipeline {
         IMAGE_NAME = "chalocharge"
         DOCKER_HUB_REPO = "keerthiprudviraj/chalocharge"
         APP_PORT = "3000"
-        CONTAINER_PORT = "80"
+        CONTAINER_PORT = "80
     }
 
     stages {
