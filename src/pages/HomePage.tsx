@@ -17,7 +17,7 @@ const HomePage = () => {
   const features = [
     {
       icon: <MapPin className="h-8 w-8 text-green-500" />,
-      title: 'Smart-Station-Finder',
+      title: 'Smart Station Finder',
       description: 'Locate nearby charging stations with real-time availability and pricing information.'
     },
     {
